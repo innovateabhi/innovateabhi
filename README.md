@@ -1,164 +1,129 @@
-![logo](https://raw.githubusercontent.com/innovateabhi/innovateabhi/refs/heads/main/Black%20and%20White%20Futuristic%20Engineer%20LinkedIn%20Background%20Photo.png)
+# 👋 Hi, I'm Abhinandan Roy
 
-<h1 align="center">Hi 👋, I'm Abhinandan Roy</h1>
+### ☁️ Cloud & DevOps Enthusiast | 🔐 Cybersecurity | 🤖 AI & Cloud Automation
 
-<h3 align="center">☁️ Cloud & DevOps Enthusiast | 🔐 Cybersecurity | 🤖 AI & Cloud Automation</h3>
+I'm a technology enthusiast from India passionate about **Cloud Computing, DevOps, Linux, Cybersecurity, and AI-powered infrastructure**.
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+I enjoy building practical projects that combine **cloud technologies, automation, containerization, security, and intelligent systems**. Currently, I'm exploring how AI and multi-agent systems can be used to make cloud infrastructure more **automated, efficient, secure, and cost-effective**.
+
+---
+
+## 🚀 What I'm Working On
+
+* ☁️ **AWS Cloud & Infrastructure**
+* 🐧 **Linux System Administration & Security**
+* 🐳 **Docker & Kubernetes**
+* 🔄 **CI/CD & DevOps Automation**
+* 🏗️ **Terraform & Infrastructure as Code**
+* 🔐 **Cloud & Linux Security**
+* 🤖 **AI-powered Cloud Automation**
+* 💰 **Autonomous Cloud Cost Optimization**
+* 🧠 **Multi-Agent AI Systems & Intelligent Infrastructure**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
 
 <p align="left">
-I'm passionate about Cloud Computing, DevOps, Linux, Cybersecurity, and AI-powered infrastructure. I enjoy building practical projects involving cloud automation, containerization, system security, monitoring, and intelligent cloud optimization.
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gcp" height="45" alt="GCP"/></a>
+<a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform"/></a>
 </p>
+
+### 🐳 DevOps & Containers
 
 <p align="left">
-🌱 Currently exploring <b>AWS, DevOps, Kubernetes, Terraform, Cloud Security, and Multi-Agent AI Systems</b>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/></a>
+<a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/></a>
+<a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/></a>
+<a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/></a>
 </p>
+
+### 🐧 Linux & Security
 
 <p align="left">
-💡 Interested in building secure, automated, scalable, and cost-efficient cloud infrastructure.
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/></a>
+<a href="https://www.redhat.com/" target="_blank"><img src="https://skillicons.dev/icons?i=redhat" height="45" alt="Red Hat"/></a>
+<a href="https://www.nginx.com/" target="_blank"><img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/></a>
 </p>
+
+### 💻 Programming & Development
 
 <p align="left">
-📫 How to reach me <b>innovate.erabhi@gmail.com</b>
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/></a>
+<a href="https://golang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=go" height="45" alt="Go"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### 🗄️ Databases & Monitoring
+
+<p align="left">
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" height="45" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/></a>
+<a href="https://prometheus.io/" target="_blank"><img src="https://skillicons.dev/icons?i=prometheus" height="45" alt="Prometheus"/></a>
+<a href="https://grafana.com/" target="_blank"><img src="https://skillicons.dev/icons?i=grafana" height="45" alt="Grafana"/></a>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### ☁️ Autonomous Cloud Cost Optimization Through Multi-Agent AI Systems
+
+An AI-driven cloud optimization platform designed to analyze cloud usage, identify cost inefficiencies, and generate optimization recommendations using **AWS, Python, PostgreSQL, LLMs, and multi-agent architecture**.
+
+### 🐧 Linux System Monitoring & Security Dashboard
+
+A Linux monitoring and security project using **Python, Flask, Docker, Nginx, HTTPS, SELinux, Firewalld, and Fail2Ban** to monitor system resources and strengthen server security.
+
+### 🔐 SSH Brute Force Detection System
+
+A Linux security project focused on detecting suspicious SSH authentication activity and identifying potential brute-force attacks through log analysis and automated monitoring.
+
+### 🚀 Containerized Web Application Deployment
+
+Hands-on deployment project involving **Docker, Kubernetes, Nginx, Linux, and cloud infrastructure**, focusing on containerized application deployment and management.
+
+---
+
+## 📜 Certifications
+
+* 🟥 **Red Hat Linux Fundamentals**
+* 🔵 **Microsoft SC-900: Security, Compliance, and Identity Fundamentals**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=innovateabhi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovateabhi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/abhinandan-roy-28a126328" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
-
 <a href="https://instagram.com/_all_black_creatives_" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
 </a>
 </p>
 
-<h3 align="left">☁️ Cloud & DevOps:</h3>
+📫 **Email:** [innovate.erabhi@gmail.com](mailto:innovate.erabhi@gmail.com)
 
-<p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
-</a>
-
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-</a>
-</p>
-
-<h3 align="left">🐧 Linux & Cybersecurity:</h3>
-
-<p align="left">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</a>
-
-<a href="https://www.redhat.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40"/>
-</a>
-
-<a href="https://nginx.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</a>
-</p>
-
-<h3 align="left">💻 Languages & Development:</h3>
-
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</a>
-
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</a>
-</p>
-
-<h3 align="left">🗄️ Databases & Monitoring:</h3>
-
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-</a>
-
-<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40"/>
-</a>
-
-<a href="https://grafana.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
-</a>
-</p>
-
-<h3 align="left">🚀 What I'm Currently Working On:</h3>
-
-<p align="left">
-☁️ Autonomous Cloud Cost Optimization Through Multi-Agent AI Systems<br>
-🐧 Linux System Monitoring & Security<br>
-🔐 SSH Brute Force Detection<br>
-🐳 Containerized Application Deployment<br>
-🤖 AI-powered Cloud Infrastructure Automation
-</p>
-
-<h3 align="left">📜 Certifications:</h3>
-
-<p align="left">
-🔴 Red Hat Linux Fundamentals<br>
-🔵 Microsoft SC-900: Security, Compliance, and Identity Fundamentals
-</p>
-
-<h3 align="left">📊 GitHub Stats:</h3>
+### 💡 "Building, automating, securing, and optimizing one system at a time."
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=innovateabhi&show_icons=true&theme=tokyonight&hide_border=true" alt="Abhinandan's GitHub Stats" />
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
 </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innovateabhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<h3 align="center">💡 Building • Automating • Securing • Optimizing</h3>
